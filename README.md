@@ -23,3 +23,6 @@ rtx3070:15
 rtx3080:15
 rtx3090:1
 rx6700:15
+
+
+Créez un Cron Job qui exécute votre script toutes les minutes de 7 heures à 21 heures durant les mois de Mars, Juin et Novembre, du lundi au vendredi (copier le Cron Job dans un fichier cron.txt dans le dossier)
